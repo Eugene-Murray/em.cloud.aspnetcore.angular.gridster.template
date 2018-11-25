@@ -29,6 +29,7 @@ import { AdminModule } from './admin/admin.module';
 import { CoreModule } from './core/core.module';
 import { UnauthorizedComponent } from './home/unauthorized.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { Widget1Component } from './dashboard/widgets/widget1.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +40,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     ProjectComponent,
     AddEditMilestoneDialogComponent,
     UnauthorizedComponent,
-    DashboardComponent
+    DashboardComponent,
+    Widget1Component
   ],
   imports: [
     BrowserModule,
