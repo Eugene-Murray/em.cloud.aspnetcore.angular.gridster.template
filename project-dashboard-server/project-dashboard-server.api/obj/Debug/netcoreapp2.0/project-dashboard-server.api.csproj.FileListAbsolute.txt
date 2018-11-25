@@ -1,0 +1,11 @@
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\bin\Debug\netcoreapp2.0\project-dashboard-server.api.deps.json
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\bin\Debug\netcoreapp2.0\project-dashboard-server.api.runtimeconfig.json
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\bin\Debug\netcoreapp2.0\project-dashboard-server.api.runtimeconfig.dev.json
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\bin\Debug\netcoreapp2.0\project-dashboard-server.api.dll
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\bin\Debug\netcoreapp2.0\project-dashboard-server.api.pdb
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\obj\Debug\netcoreapp2.0\project-dashboard-server.api.csprojAssemblyReference.cache
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\obj\Debug\netcoreapp2.0\project-dashboard-server.api.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\obj\Debug\netcoreapp2.0\project-dashboard-server.api.AssemblyInfoInputs.cache
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\obj\Debug\netcoreapp2.0\project-dashboard-server.api.AssemblyInfo.cs
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\obj\Debug\netcoreapp2.0\project-dashboard-server.api.dll
+C:\Users\eugen\Documents\Dev\2019\packt\em.cloud.aspnetcore.angular.gridster.template\project-dashboard-server\project-dashboard-server.api\obj\Debug\netcoreapp2.0\project-dashboard-server.api.pdb
