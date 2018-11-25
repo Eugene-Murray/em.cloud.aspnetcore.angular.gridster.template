@@ -12,7 +12,9 @@ import {
   MatTableModule,
   MatFormFieldModule,
   MatInputModule,
-  MatSelectModule
+  MatSelectModule,
+  MatTabsModule, 
+  MatIconModule 
 } from '@angular/material';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -51,6 +53,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     MatFormFieldModule,
     MatInputModule,
     MatSelectModule,
+    MatTabsModule, 
+    MatIconModule,
     AdminModule,
     CoreModule,
     AppRoutingModule,
